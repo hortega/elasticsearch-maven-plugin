@@ -1,0 +1,15 @@
+.classpath
+.project
+.settings/
+META-INF/
+target/
+.metadata
+.checkstyle
+*.class
+*.orig
+.idea
+*.iml
+bin/
+*.releaseBackup
+release.properties
+data/
